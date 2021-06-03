@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The shepherd's son: or, The faithless nurse. Containing a royal frolick between King Edward the Fourth, and his nobles, at Westminster; as you shall find in this following ditty, taken from ancient writings, for the satisfaction of the world.  To the tune of, The royal forrester.  Licens'd according to order.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43960</idno><idno type="EEBO-CITATION">688636404</idno>
+  <idno type="VID">212074</idno>
+  <idno type="EEBO-PROQUEST">2240863903</idno>
+  
+            <idno type="OCLC"> 688636404</idno>
+            <idno type="OCLC">ocn 688636404</idno>
+            <idno type="STC">Wing S3158</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43960)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212074)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2998:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The shepherd's son: or, The faithless nurse. Containing a royal frolick between King Edward the Fourth, and his nobles, at Westminster; as you shall find in this following ditty, taken from ancient writings, for the satisfaction of the world.  To the tune of, The royal forrester.  Licens'd according to order.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for C. Bates, at the Sun and Bible, in Pye-corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Date of publication suggested by the National Library of Scotland: [1690 or later].</note>
+                  <note>In verse.</note>
+                  <note>First line: I come not to sing you a sonnet of lies.</note>
+                  <note>Printed in black letter in four columns.</note>
+                  <note>Reproduction of original in: National Library of Scotland--Crawford Collections.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Edward --  IV, --  King of England, 1442-1483 --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, English --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:212074:1"/>
+            <pb facs="tcp:212074:2"/>
+            <pb facs="tcp:212074:3"/>
+            <head>The Shepherd's SON: OR, The Faithless Nurse.</head>
+            <opener>Containing a Royal Frolick between King <hi>Edward</hi> the Fourth, and his Nobles, at <hi>Westminster;</hi> as you shall find in this following Ditty, taken from ancient Writings, for the Satis<g ref="char:EOLhyphen"/>faction of the World. To the Tune of, <hi>Tho Royal Foxrester.</hi>
+            </opener>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>Licens'd according to Order.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <figure>
+                  <figDesc>woodcut of portrait of king</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>woodcut of a man with boy and woman with girl</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>
+                  <hi>I</hi> Come not to sing you a sonnet of lies,</l>
+               <l>Which every fanciful Man can divise,</l>
+               <l>Nor any strange rodemantadoes in tune,</l>
+               <l>Concerning the wonderful world in the moon.</l>
+            </lg>
+            <lg>
+               <l>No, no, I will tell you a story of truth,</l>
+               <l>King <hi>Edward</hi> the fourth in his flourishing youth,</l>
+               <l>He many a fancy was pleased to try;</l>
+               <l>Here's one you shall hear, if you please to draw nigh:</l>
+            </lg>
+            <lg>
+               <l>Behold, he was one of the frolicksome Kings,</l>
+               <l>Who often discours'd of the causes of things;</l>
+               <l>Amongst his true Nobles of honour and worth,</l>
+               <l>Said he, should we take a young Boy from the birth,</l>
+            </lg>
+            <lg>
+               <l>And keep him in silence for twice seven years,</l>
+               <l>Where never no language may sound in his ears,</l>
+               <l>To teach him to speak any words more or less;</l>
+               <l>I wonder how then he himself wou'd express?</l>
+            </lg>
+            <lg>
+               <l>Said one of the Nobles, He'll blate like a sheep;</l>
+               <l>Another reply'd, that true silence he'd keep:</l>
+               <l>With that, said K. <hi>Edward</hi> we'll bring up one mute,</l>
+               <l>And so by that means we shall end the dispute.</l>
+            </lg>
+            <lg>
+               <l>And if I shall live while the time's at an end;</l>
+               <l>To him I will prove an infallable Friend;</l>
+               <l>For then to a Tutor or school he shall go,</l>
+               <l>Good learning upon him I'll freely bestow.</l>
+            </lg>
+            <lg>
+               <l>The Son of a Shepherd they soon did procure,</l>
+               <l>And likewise a Nurse, who was free to endure</l>
+               <l>The silence of living, to pleasure the King;</l>
+               <l>And vow'd to be faithful in every thing.</l>
+            </lg>
+            <lg>
+               <l>King <hi>Edward</hi> near <hi>Windsor</hi> a place did provide,</l>
+               <l>Acradle, and all things convenient beside,</l>
+               <l>To cherish the Infant out of his own purse,</l>
+               <l>And none was to enter but Madam the Nurse.</l>
+            </lg>
+            <lg>
+               <l>She was not confin'd, but had freedom to go</l>
+               <l>Abroad in the Town, for an hour or so;</l>
+               <l>But ever when back to the Child she did come,</l>
+               <l>She must be more silent, the none that was dumb.</l>
+            </lg>
+            <lg>
+               <l>No manner of words in the least must she spake,</l>
+               <l>When out of the crable the Child she did take;</l>
+               <l>Or when at the breast it was sucking it's fill,</l>
+               <l>Because of the absolute tryal of skill.</l>
+            </lg>
+            <lg>
+               <l>The King he enjoyn'd her the same to observe,</l>
+               <l>Said he, If the least from your duty you swerve,</l>
+               <l>Then during my reign, I will keep you confin'd,</l>
+               <l>And therefore your business consider and mind.</l>
+            </lg>
+            <lg>
+               <l>But if you are faithful, and true to your trust,</l>
+               <l>Here's forty broad pieces I'll give you at first;</l>
+               <l>Besides I will settle one hundred a year</l>
+               <l>Vpon you, and therefore go on without fear.</l>
+            </lg>
+            <lg>
+               <l>She vow'd to the King she wou'd never neglect,</l>
+               <l>Performing her duty in ev'ry respect;</l>
+               <l>Therefore with the Infant she strait did repair,</l>
+               <l>To keep it according to promise with care.</l>
+            </lg>
+            <lg>
+               <l>This silence the Nurse did observe for a while,</l>
+               <l>But as the Childgrew, it was subject to smile,</l>
+               <l>And tooe in her lap, as the same she undrest;</l>
+               <l>O then with sad sorrow she'd beat on her breast.</l>
+            </lg>
+            <lg>
+               <l>The trickling tears from her eyes they wou'd fall,</l>
+               <l>To think that she must not say nothing at all</l>
+               <l>To please the young Infant, yet nevertheless,</l>
+               <l>Sometimes in sad sorrow, these words she express:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>King</hi> Edward <hi>has many a foolish thing done,</hi>
+               </l>
+               <l>
+                  <hi>And this, I declare, amongst others is one:</hi>
+               </l>
+               <l>This did she repeat as it sat on her knee,</l>
+               <l>At length the Child got is as perfect as she.</l>
+            </lg>
+            <lg>
+               <l>Now, now when the time was expir'd, we find</l>
+               <l>The Child it came into his Majesty's mind;</l>
+               <l>Who sent for him then on a Festival-day,</l>
+               <l>Amongst all his Nobles, both gallant and gay.</l>
+            </lg>
+            <lg>
+               <l>When into their presence the Youth he was brought,</l>
+               <l>All knowing right well he was not to be taught;</l>
+               <l>With longing desires they waited awhile,</l>
+               <l>At length he did make the whole company smile.</l>
+            </lg>
+            <lg>
+               <l>He nev'r see so many before in his days,</l>
+               <l>Quoth he, when his voice he began for to raise,</l>
+               <l>
+                  <hi>King</hi> Edward <hi>has many a foolish thing done,</hi>
+               </l>
+               <l>
+                  <hi>And this, I declare, amongst others is one.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Nobles they laught, and the King with the rest,</l>
+               <l>He cou'd not forbear, but must smile at the jest;</l>
+               <l>But oh, the poor Nurse, with a trembling fear,</l>
+               <l>She cry'd out, <hi>My ruine, my ruine is near.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The King he look'd then with a terrible frown,</l>
+               <l>And said, <hi>By my honoured Scepter and Crown,</hi>
+               </l>
+               <l>
+                  <hi>You ought to be punisht according to law,</hi>
+               </l>
+               <l>
+                  <hi>Because that my word did not keep you in awe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Nobles then present her pardon obtain'd,</l>
+               <l>And so for the time that his Majesty reign'd,</l>
+               <l>She lived in plenty near <hi>Westminster-</hi>hall,</l>
+               <l>Not far from the sign of the Lion and Ball.</l>
+            </lg>
+            <lg>
+               <l>The King of the Youth took particular care,</l>
+               <l>To bless him with learning, no cost he did spare;</l>
+               <l>And when all was done, as in writings we hear,</l>
+               <l>He settled upon him three hundred a year.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>C. Bates,</hi> at the Sun and Bible, in <hi>Pye-corner.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
